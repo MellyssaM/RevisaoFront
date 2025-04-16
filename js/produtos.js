@@ -1,50 +1,50 @@
 const produtos = [
     {
         "id": 1,
-        "nome": "Tn Purple dragon",
-        "descricao": "Esse tenis combina estilo arrojado com conforto e tecnologia.",
-        "preco": 397.90,
-        "peso": 0.5,
-        "imagem": "https://www.tnsdojota.com/wp-content/uploads/2024/08/ec06e090.jpeg"
+        "nome": "Blusa TuPac",
+        "descricao": "Blusa TuPac com estampa de alta qualidade",
+        "preco": 197.90,
+        "peso": 10.00,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGoYcUyjRFR1bEDt_Gc4vNkLIlMWlbwCB_A&s"
     },
     {
         "id": 2,
-        "nome": "Jordan 4",
-        "descricao": "Este Air Jordan 4 traz uma nova energia ao modelo histórico",
-        "preco": 1234.99,
-        "peso": 0.5,
-        "imagem": "https://acdn-us.mitiendanube.com/stores/002/304/420/products/1000687821-f2722788868489084017259245295242-1024-1024.jpg"
+        "nome": "Tenis branco nike",
+        "descricao": "Tenis branco confortavel e estiloso",
+        "preco": 234.99,
+        "peso": 10.00,
+        "imagem": "https://cdn.awsli.com.br/600x450/1755/1755854/produto/87687436/e82fb0abc7.jpg"
     },
     {
         "id": 3,
-        "nome": "Chuteria Nike Mercurial",
-        "descricao": "O cadarço assimétrico oferece uma superfície de toque maior ao driblar",
-        "preco": 2374.99,
-        "peso": 0.3,
-        "imagem": "https://acdn-us.mitiendanube.com/stores/001/669/060/products/big4-b64ad377406d1f60ff17087389728077-1024-1024.jpeg"
+        "nome": "Bandana TuPac",
+        "descricao": "Bandana Tupac vermelha de alta qualidade.",
+        "preco": 74.99,
+        "peso": 10.00,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj1BsYk1dbO989aR8S_a5_glv3iq59sTWH5A&s"
     },
     {
         "id": 4,
-        "nome": "Camisa Polo NIke",
-        "descricao": "Tecido em algodão é macio e cofotável",
+        "nome": "Boné TuPac",
+        "descricao": "Boné TuPac com estampa.",
         "preco": 256.49,
         "peso": 0.3,
-        "imagem": "https://rogerstenis.vteximg.com.br/arquivos/ids/2753669-1000-1000/1000891376_1.jpg?v=637647341898670000"
+        "imagem": "https://images.tcdn.com.br/img/img_prod/1312795/bone_e_stars_2pac_aba_curva_preto_13722_1_4b21df96950a8241749fefa254e36b50.jpg"
     },
     {
         "id": 5,
-        "nome": "Calsa Cargo",
-        "descricao": "Tecido em algodão é macio e cofotável",
-        "preco": 198.00,
+        "nome": "Corrente TuPac",
+        "descricao": "Corrente TuPac OURO com pingente.",
+        "preco": 2398.00,
         "peso": 1.2,
-        "imagem": "https://images.tcdn.com.br/img/img_prod/703344/calca_cargo_tradicional_sarja_basic_preta_3310_1_74797dc68cb52404c8fa1ea18ea95b46.jpeg"
+        "imagem": "https://i.redd.it/2pacs-makaveli-chain-aka-euphanasia-medallion-his-actual-v0-xlz77bl1y0yb1.png?width=1704&format=png&auto=webp&s=c57f6b387934bd2a5c5a2cd4f608833df5f83367"
     },
     {
         "id": 6,
-        "nome": "Boné Jhon John",
-        "descricao": "Confortavel e facil acesso",
+        "nome": "Fone de ouvido caixinha personalizada TuPac",
+        "descricao": "Fone de ouvido com caixinha  preta personalizada TuPac.",
         "preco": 144.99,
         "peso": 0.9,
-        "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQxfSdP_i6osgAU1Rch4BJArp8GVJivwc7ajkBYqQecwU5KxEiYTpePA3BBH35EkVyHdOS69MBujj1tHVwOiXo8RFPeDjuAAL6tP3x1Z7dXTpZ3f1IW4DyR_g"
+        "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Seef69ed22042461ea33cc01040e11103H.jpg_220x220q75.jpg_.avif"
     }
 ];
